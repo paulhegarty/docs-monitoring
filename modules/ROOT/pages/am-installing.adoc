@@ -1,6 +1,6 @@
 = Install Anypoint Monitoring On-Premises
 
-You can install Anypoint Monitoring on an on-premises server to monitor applications running on that server. On-premises monitoring for hybrid deployments must be enabled at the master org level.
+You can install Anypoint Monitoring on an on-premises server to monitor applications running on that server. On-premises monitoring for hybrid deployments (cloud-managed on-premises runtimes) must be enabled at the master org level.
 
 == Before You Begin
 
